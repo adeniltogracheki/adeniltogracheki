@@ -1,31 +1,36 @@
 <div align="center">
 
-  <!-- BANNER CIBERNÉTICO ANIMADO -->
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:0D1117,50:1F242C,100:FF7700&height=220&section=header&text=ADENILTO%20GRACHEKI&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=%E2%8C%A1%20FULL%20STACK%20%7C%20AI%20SOLUTIONS%20%7C%20INFRA%20DEVOPS%20%E2%8C%A1&descSize=16&descAlignY=64&descColor=FF7700" width="100%" />
+  <!-- BANNER MATRIX / RETRO TERMINAL -->
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:001a00,100:003300&stroke=00FF66&height=200&section=header&text=%E2%96%88%E2%96%88%20MAINFRAME%3A%20ADENILTO%20%E2%96%88%E2%96%88&fontSize=38&fontColor=00FF66&animation=fadeIn&fontAlignY=42&desc=%5B%20SYS_USER%3A%20adeniltogracheki%20%7C%20ROOT%20ACCESS%20GRANTED%20%5D&descSize=15&descAlignY=65&descColor=00aa44" width="100%" />
 
   <br/>
 
-  <!-- DIGITAÇÃO AUTOMÁTICA EM TERMINAL (SVG SEM ERRO) -->
+  <!-- PROMPT INTERATIVO ANIMADO ESTILO TERMINAL RETRO -->
   <a href="https://github.com/adeniltogracheki">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2600&pause=800&color=00FF66&center=true&vCenter=true&width=650&lines=%3E_SYSTEM_CORE_INITIALIZED_OK;%3E_BUILDING_AI_AUTOMATION_ENGINES...;%3E_DEPLOYING_FULL_STACK_PLATFORMS;%3E_CONTAINERS_RUNNING_ON_DOCKER" alt="Console Log" />
+    <img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=26&duration=2500&pause=1000&color=00FF66&center=true&vCenter=true&width=620&lines=%3E_CONNECTING_TO_NEURAL_MAINFRAME...;%3E_BYPASSING_CONVENTIONAL_LIMITS;%3E_INITIALIZING_AI_AGENT_NETWORKS;%3E_DEPLOYING_CONTAINERS_TO_PRODUCTION" alt="Console Log" />
   </a>
 
   <br/><br/>
 
-  <!-- STATUS HUD / TELEMETRIA -->
+  <!-- INDICADORES DE PROTOCOLO -->
   <p>
-    <img src="https://img.shields.io/badge/STATUS-SYSTEM%20ONLINE-00FF66?style=for-the-badge&logo=statuspage&logoColor=black" />
-    <img src="https://img.shields.io/badge/AI%20CORE-ACTIVE-FF7700?style=for-the-badge&logo=openai&logoColor=white" />
-    <img src="https://img.shields.io/badge/ENVIRONMENT-DOCKERIZED-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-    <img src="https://img.shields.io/badge/ACCESS-ROOT%20LEVEL-purple?style=for-the-badge&logo=gnubash&logoColor=white" />
+    <img src="https://img.shields.io/badge/%5B_PROTOCOL_%5D-ONLINE-00FF66?style=for-the-badge&logo=gnubash&logoColor=black&labelColor=000000" />
+    <img src="https://img.shields.io/badge/%5B_CORE_%5D-AI_ORCHESTRATION-00FF66?style=for-the-badge&logo=openai&logoColor=black&labelColor=000000" />
+    <img src="https://img.shields.io/badge/%5B_INFRA_%5D-DOCKER_SWARM-00FF66?style=for-the-badge&logo=docker&logoColor=black&labelColor=000000" />
   </p>
 
 </div>
 
 ---
 
-### 01 // IDENTITY MATRIX
+### // 01. SYS_DIAGNOSTICS & SYSTEM INFO
 
-```bash
- ┌──[adenilto@quantum-workstation]─[~]
- └──$ cat identity.sys
+```text
+ _________________________________________________________________
+| OPERATOR     : Adenilto Gracheki                               |
+| CALLSIGN     : @adeniltogracheki                               |
+| HOST         : cyber-node-01 (Linux x86_64)                    |
+| KERNEL       : 6.8.0-autonomous-custom                         |
+| PRIMARY TASK : Full Stack Engineering & AI Integration         |
+| THREAT LEVEL : NULL (Firewall Active)                           |
+|________________________________________________________________|
