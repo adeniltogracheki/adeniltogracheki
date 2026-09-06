@@ -7,7 +7,7 @@
   <br/>
 
   <a href="https://github.com/adeniltogracheki">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00ccff&center=true&vCenter=true&width=800&lines=%3E_Vibe+Coding:+Criando+experiencias+web;%3E_SecOps:+Protegendo+com+Sophos+e+Fortinet;%3E_Infra:+Active+Directory+e+Windows+Server;%3E_Motivacao+diaria:+Millena+e+Maike!" alt="Console Log" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00ccff&center=true&vCenter=true&width=800&lines=%3E_Vibe+Coding:+Criando+experiencias+web;%3E_SecOps:+Protegendo+com+Sophos+e+Fortinet;%3E_Infra:+Active+Directory+e+Windows+Server;%3E_Motivacao+diaria:+Agradar+meus+clientes+!" alt="Console Log" />
   </a>
 
   <br/><br/>
