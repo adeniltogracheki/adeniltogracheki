@@ -7,7 +7,7 @@
   <br/>
 
   <a href="https://github.com/adeniltogracheki">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00ccff&center=true&vCenter=true&width=800&lines=%3E_Vibe+Coding:+Criando+experi%C3%AAncias+web+fluidas;%3E_SecOps:+Protegendo+per%C3%ADmetros+com+Sophos+%26+Fortinet;%3E_Infra:+Administrando+Active+Directory+com+excel%C3%AAncia;%3E_Motiva%C3%A7%C3%A3o+di%C3%A1ria:+Millena+e+Maike!+🚀" alt="Console Log" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=00ccff&center=true&vCenter=true&width=800&lines=%3E_Vibe+Coding:+Criando+experiencias+web;%3E_SecOps:+Protegendo+com+Sophos+e+Fortinet;%3E_Infra:+Active+Directory+e+Windows+Server;%3E_Motivacao+diaria:+Millena+e+Maike!" alt="Console Log" />
   </a>
 
   <br/><br/>
